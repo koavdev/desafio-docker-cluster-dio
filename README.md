@@ -2,7 +2,7 @@
 
 This projeact was created at Docker Fundamentals course on DIO.
 
-I needed to create a local cluster with Docker Swarm and Vagrant to build VMs.
+I needed to create a local cluster with Docker Swarm and build VMs with Vagrant.
 
 Vagrant creates the master and workers (nodes) VMs on VirtualBox, specified in Vagrantfile.
 
